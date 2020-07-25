@@ -199,3 +199,6 @@ C:\Users\vinic\source\repos\vnt\WebAPI\bin\System.Text.Json.xml
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\System.ValueTuple.xml
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\vinic\source\repos\vnt\WebAPI\bin\log4net.config
+C:\Users\vinic\source\repos\vnt\WebAPI\bin\log4net.dll
+C:\Users\vinic\source\repos\vnt\WebAPI\bin\log4net.xml

@@ -1,3 +1,4 @@
+C:\Users\vinic\source\repos\vnt\WebAPI\bin\log4net.config
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\WebAPI.dll.config
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\WebAPI.dll
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\WebAPI.pdb
@@ -145,6 +146,7 @@ C:\Users\vinic\source\repos\vnt\WebAPI\bin\System.Xml.XPath.XDocument.dll
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\EntityFramework.dll
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\EntityFramework.SqlServer.dll
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\EntityFramework6.Npgsql.dll
+C:\Users\vinic\source\repos\vnt\WebAPI\bin\log4net.dll
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\Newtonsoft.Json.dll
@@ -171,6 +173,7 @@ C:\Users\vinic\source\repos\vnt\WebAPI\bin\vnt.dll.config
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\EntityFramework.xml
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\EntityFramework.SqlServer.xml
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\EntityFramework6.Npgsql.xml
+C:\Users\vinic\source\repos\vnt\WebAPI\bin\log4net.xml
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\Npgsql.xml
 C:\Users\vinic\source\repos\vnt\WebAPI\bin\System.Buffers.xml

@@ -3,14 +3,14 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <h1>VNT Sistemas</h1>
+        <p class="lead">Sua empresa necessita de software de gestão, nós desenvolvemos, entre em contato pelo telefone 44 99916-8055</p>
+       <%-- <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>--%>
     </div>
 
     <div class="row">
         <div class="col-md-4">
-            <h2>Getting started</h2>
+            <h2>App Android</h2>
             <p>
                 ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
             A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
@@ -21,7 +21,7 @@
         </div>
 
         <div class="col-md-4">
-            <h2>Get more libraries</h2>
+            <h2>Software de Gestão </h2>
             <p>
                 <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
                 NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
@@ -31,7 +31,7 @@
             </p>
         </div>
         <div class="col-md-4">
-            <h2>Web Hosting</h2>
+            <h2>Consultoria</h2>
             <p>
                 You can easily find a web hosting company that offers the right mix of features and price for your applications.
             </p>
