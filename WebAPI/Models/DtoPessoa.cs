@@ -46,5 +46,6 @@ namespace WebAPI.Models
         public string valor_hora { get; set; }
         public string especialidade { get; set; }
         public double? avaliacao { get; set; }
+        public string status { get; set; }
     }
 }

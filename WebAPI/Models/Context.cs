@@ -14,5 +14,6 @@ namespace WebAPI.Models
         public DbSet<DtoPessoa> pessoas { get; set; }
         public DbSet<DtoEspecialidade> especialidades { get; set; }
         public DbSet<DtoProfssionalEspecialidade> profssionalespecialidades { get; set; }
+        public DbSet<DtoContrato> contratos { get; set; }
     }
 }

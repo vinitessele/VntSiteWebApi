@@ -196,8 +196,8 @@ C:\Users\vinic\source\repos\vnt\vnt\bin\Microsoft.AspNet.TelemetryCorrelation.xm
 C:\Users\vinic\source\repos\vnt\vnt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\vinic\source\repos\vnt\vnt\bin\pt-br\System.Web.Optimization.resources.dll
 C:\Users\vinic\source\repos\vnt\vnt\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
-C:\Users\vinic\source\repos\vnt\vnt\obj\Debug\vnt.csprojAssemblyReference.cache
 C:\Users\vinic\source\repos\vnt\vnt\obj\Debug\vnt.csproj.CoreCompileInputs.cache
 C:\Users\vinic\source\repos\vnt\vnt\obj\Debug\vnt.csproj.CopyComplete
 C:\Users\vinic\source\repos\vnt\vnt\obj\Debug\vnt.dll
 C:\Users\vinic\source\repos\vnt\vnt\obj\Debug\vnt.pdb
+C:\Users\vinic\source\repos\vnt\vnt\obj\Debug\vnt.csprojAssemblyReference.cache

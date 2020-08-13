@@ -15,7 +15,7 @@ namespace WebAPI.Models
             try
             {
                 Context db = new Context();
-                return db.pessoas.ToList();
+                return db.pessoas.Where(p=>p.cad_aprovado=="S" && p.status=="A").ToList();
             }
             catch (Exception ex)
             {
@@ -28,7 +28,7 @@ namespace WebAPI.Models
             try
             {
                 Context db = new Context();
-                return db.pessoas.Where(p => p.id == id).FirstOrDefault();
+                return db.pessoas.Where(p => p.id == id && p.cad_aprovado == "S" && p.status == "A").FirstOrDefault();
             }
             catch (Exception ex)
             {
@@ -41,7 +41,7 @@ namespace WebAPI.Models
             try
             {
                 Context db = new Context();
-                return db.pessoas.Where(p => p.cpf == cpf).FirstOrDefault();
+                return db.pessoas.Where(p => p.cpf == cpf && p.cad_aprovado == "S" && p.status == "A").FirstOrDefault();
             }
             catch (Exception ex)
             {
@@ -55,7 +55,7 @@ namespace WebAPI.Models
             try
             {
                 Context db = new Context();
-                return db.pessoas.Where(p => p.tp_login == tipoPessoa).ToList();
+                return db.pessoas.Where(p => p.tp_login == tipoPessoa && p.cad_aprovado == "S" && p.status == "A").ToList();
             }
             catch (Exception ex)
             {
@@ -68,7 +68,7 @@ namespace WebAPI.Models
             try
             {
                 Context db = new Context();
-                return db.pessoas.Where(p => p.email == email).FirstOrDefault();
+                return db.pessoas.Where(p => p.email == email && p.cad_aprovado == "S" && p.status == "A").FirstOrDefault();
             }
             catch (Exception ex)
             {

@@ -523,19 +523,19 @@ ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.mi
       <publishTime>03/10/2019 00:16:14</publishTime>
     </File>
     <File Include="bin/vnt.dll">
-      <publishTime>07/25/2020 00:27:20</publishTime>
+      <publishTime>08/04/2020 16:14:13</publishTime>
     </File>
     <File Include="bin/vnt.dll.config">
       <publishTime>07/23/2020 02:24:37</publishTime>
     </File>
     <File Include="bin/vnt.pdb">
-      <publishTime>07/25/2020 00:27:20</publishTime>
+      <publishTime>08/04/2020 16:14:13</publishTime>
     </File>
     <File Include="bin/WebAPI.dll">
-      <publishTime>07/25/2020 00:27:23</publishTime>
+      <publishTime>08/04/2020 16:14:17</publishTime>
     </File>
     <File Include="bin/WebAPI.pdb">
-      <publishTime>07/25/2020 00:27:23</publishTime>
+      <publishTime>08/04/2020 16:14:17</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>01/23/2014 14:57:34</publishTime>
